@@ -38,7 +38,7 @@ else:
     print("O número não pertence à sequência de Fibonacci.")
 
 
-#3 e 4) Infelizmente eu não entendi e não soube como fazer, mas go
+#3 e 4) Infelizmente eu não entendi e não soube como fazer, mas gostaria de aprender
 
 
 #5)
